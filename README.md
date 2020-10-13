@@ -1,4 +1,4 @@
-Hi there 👋
+## नमस्ते (Namaste) Hi there 👋
 Welcome to my profile.
 
 ![Profile views](https://gpvc.arturio.dev/codeanddraw)
@@ -36,4 +36,3 @@ I have always been hard working and focused with proven results.
 - ⚡️ Fun fact: I love canvas painting and masala tea. 
 
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=codeanddraw.codeanddraw" alt="visitors"></p>
