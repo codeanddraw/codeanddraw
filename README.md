@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi There 👋
 Welcome to my profile.
 
 ![Profile views](https://gpvc.arturio.dev/codeanddraw)
 
 
 I am NISHA.
-Software Developer | Technology enthusiast | Artist
+Software Developer || Technology enthusiast || Canvas Painter
 I have always been hard working and focused with proven results.
 
 - 🚀 Some Tools I Use:
