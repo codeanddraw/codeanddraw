@@ -1,4 +1,4 @@
-## नमस्ते (Namaste) Hi there 👋
+## Hi there 👋
 Welcome to my profile.
 
 ![Profile views](https://gpvc.arturio.dev/codeanddraw)
